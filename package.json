@@ -9,6 +9,10 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
+  "engines": {
+  "node": "20.12.2"
+  },
+
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
     "@react-three/drei": "^10.3.0",
